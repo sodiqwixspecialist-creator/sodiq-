@@ -1,0 +1,5 @@
+{
+  "name": "WordPress Diagnostic Center",
+  "description": "An advanced system analyzer for WordPress websites that detects core failures, security risks, and plugin conflicts.",
+  "requestFramePermissions": []
+}
